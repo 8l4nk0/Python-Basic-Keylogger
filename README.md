@@ -1,5 +1,7 @@
 # Python-Basic-Keylogger
 Un keylogger non è altro che un programma che registra i tasti premuti (sia da mouse che tastiera) e li memorizza in un log_file.
+Grazie alla libreria pynput registriamo i tasti premuti e con la libreria logging li registriamo dentro ad un log_file.
+Il log_file verrà creato nel indirizzo della cartella scritto nella variabile log_file_directory e salvato in formato .txt.
 
 Il codice è spiegato completamente dai commenti all'interno del file KeyLogger.py
 
