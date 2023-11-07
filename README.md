@@ -3,6 +3,7 @@ Un keylogger non è altro che un programma che registra i tasti premuti (sia da 
 
 Il codice è spiegato completamente dai commenti all'interno del file KeyLogger.py
 
+ATTENZIONE: per eseguire il file su Windows bisogna prima inserirlo nelle eccezioni del Windows Defender
 
 # FAQ
 
